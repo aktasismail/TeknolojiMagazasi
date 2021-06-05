@@ -1,0 +1,102 @@
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.deps.json
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.json
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.dev.json
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.dll
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.pdb
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csprojAssemblyReference.cache
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfoInputs.cache
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfo.cs
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CopyComplete
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\AktasTech\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.genruntimeconfig.cache
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.deps.json
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.json
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.dev.json
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.dll
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.pdb
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csprojAssemblyReference.cache
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfoInputs.cache
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfo.cs
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CopyComplete
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.genruntimeconfig.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.deps.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.dev.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csprojAssemblyReference.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfoInputs.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfo.cs
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CopyComplete
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.genruntimeconfig.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.deps.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.dev.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csprojAssemblyReference.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfoInputs.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfo.cs
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CopyComplete
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 11032021\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.genruntimeconfig.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.deps.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.dev.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csprojAssemblyReference.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfoInputs.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfo.cs
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CopyComplete
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 18032021 kc\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.genruntimeconfig.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.deps.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.runtimeconfig.dev.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Core.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\bin\Release\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csprojAssemblyReference.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfoInputs.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.AssemblyInfo.cs
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.csproj.CopyComplete
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2 02062121 - Kopya\AktasTech.DataAccess\obj\Release\netcoreapp3.1\AktasTech.DataAccess.genruntimeconfig.cache

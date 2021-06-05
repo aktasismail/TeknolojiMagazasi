@@ -1,0 +1,42 @@
+﻿@model AktasTech.WebUi.Models.SepetListeleme
+@{
+    ViewData["Title"] = "Listeleme";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<table class="table">
+    <tr>
+        <td>Urun Adı</td>
+        <td>Fiyat</td>
+        <td>Stok</td>
+        <td>Miktar</td>
+        <td></td>
+    </tr>
+    @foreach (var item in Model.Sepet.sepettekilers)
+    {
+        <tr>
+            <td>@item.Urunler.UrunAd</td>
+            <td>@item.Urunler.Fiyat</td>
+            <td>@item.Urunler.Stok</td>
+            <td>@item.Miktar</td>
+            <td class="text-right"><a class="btn btn-xs btn-danger" asp-controller="Sepet" asp-action="Silme" asp-route-urunId="@item.Urunler.UrunId"><span class="glyphicon glyphicon-remove"></span> Sepetten Sil</a></td>
+        </tr>
+    }
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+            <h3>Total</h3>
+        </td>
+        <td class="text-right">
+            <h3>
+                <strong>@Model.Sepet.Total</strong>
+            </h3>
+        </td>
+    </tr>
+
+</table>
+<div><a class="btn btn-primary" asp-controller="Urunler" asp-action="Urun">Alışverişe Devam</a></div>
+<div><a class="btn btn-primary" asp-controller="Sepet" asp-action="Tamamla">Tamamlandı</a></div>
+

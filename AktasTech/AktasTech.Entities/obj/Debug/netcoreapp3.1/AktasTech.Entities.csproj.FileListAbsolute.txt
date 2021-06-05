@@ -1,0 +1,45 @@
+D:\Visual Studio\AktasTech\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.deps.json
+D:\Visual Studio\AktasTech\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.runtimeconfig.json
+D:\Visual Studio\AktasTech\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.runtimeconfig.dev.json
+D:\Visual Studio\AktasTech\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\AktasTech\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\AktasTech\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Core.dll
+D:\Visual Studio\AktasTech\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Core.pdb
+D:\Visual Studio\AktasTech\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.csprojAssemblyReference.cache
+D:\Visual Studio\AktasTech\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.AssemblyInfoInputs.cache
+D:\Visual Studio\AktasTech\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.AssemblyInfo.cs
+D:\Visual Studio\AktasTech\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.csproj.CoreCompileInputs.cache
+D:\Visual Studio\AktasTech\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.csproj.CopyComplete
+D:\Visual Studio\AktasTech\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\AktasTech\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\AktasTech\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.genruntimeconfig.cache
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.deps.json
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.runtimeconfig.json
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.runtimeconfig.dev.json
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Core.dll
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Core.pdb
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.csprojAssemblyReference.cache
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.AssemblyInfoInputs.cache
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.AssemblyInfo.cs
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.csproj.CoreCompileInputs.cache
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.csproj.CopyComplete
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.genruntimeconfig.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.deps.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.runtimeconfig.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.runtimeconfig.dev.json
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Core.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\bin\Debug\netcoreapp3.1\AktasTech.Core.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.csprojAssemblyReference.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.AssemblyInfoInputs.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.AssemblyInfo.cs
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.csproj.CoreCompileInputs.cache
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.csproj.CopyComplete
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.dll
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.pdb
+D:\Visual Studio\aktastech notemplate\AktasTech - Kopya2\AktasTech.Entities\obj\Debug\netcoreapp3.1\AktasTech.Entities.genruntimeconfig.cache

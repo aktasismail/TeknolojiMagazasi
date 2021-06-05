@@ -1,0 +1,19 @@
+﻿@model AktasTech.WebUi.Models.KategoriListeleme
+@{
+    ViewData["Title"] = "Urun";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<div>
+
+    <div class="row panel pane-default">
+        @foreach (var product in Model.Kategorilers)
+        {
+            <div class="col-md-3 text-center">
+              
+                <div><h2>@product.KategoriAd</h2></div>
+                <div>@product.KategoriId</div>
+               
+            </div>
+        }
+    </div>
+</div>

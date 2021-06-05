@@ -1,0 +1,41 @@
+﻿@model AktasTech.WebUi.Models.TeslimatDetayModel
+@{
+    ViewData["Title"] = "Tamamla";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<form asp-controller="Cart" asp-action="Complete" method="post">
+    <div class="form-group">
+        <label asp-for="TeslimatDetay.Ad"></label>
+        <input asp-for="TeslimatDetay.Ad" class="form-control" placeholder="Adınız">
+        <span asp-validation-for="TeslimatDetay.Ad"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TeslimatDetay.Soyad"></label>
+        <input asp-for="TeslimatDetay.Soyad" class="form-control" placeholder="Soyadınız">
+        <span asp-validation-for="TeslimatDetay.Soyad"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TeslimatDetay.Adres"></label>
+        <input asp-for="TeslimatDetay.Adres" class="form-control" placeholder="Adresiniz">
+        <span asp-validation-for="TeslimatDetay.Adres"></span>
+    </div>
+    @*<div class="form-group">
+            <label asp-for="TeslimatDetay.Şehir"></label>
+            <input asp-for="TeslimatDetay.Şehir" class="form-control" placeholder="Yaşadığınız Şehir">
+            <span asp-validation-for="TeslimatDetay.Şehir"></span>
+        </div>*@
+
+    <div class="form-group">
+        <label asp-for="TeslimatDetay.Email"></label>
+        <input asp-for="TeslimatDetay.Email" class="form-control" placeholder="E Posta Adresiniz">
+        <span asp-validation-for="TeslimatDetay.Email"></span>
+    </div>
+
+    @*<div class="form-group">
+            <label asp-for="TeslimatDetay.Yaş"></label>
+            <input asp-for="TeslimatDetay.Yaş" class="form-control" placeholder="Yaşınız">
+            <span asp-validation-for="TeslimatDetay.Yaş"></span>
+        </div>*@
+    <input type="submit" value="Alışverişi Tamamla" class="btn btn-xs btn-success" />
+</form>

@@ -1,0 +1,25 @@
+﻿@model AktasTech.WebUi.Models.UrunListeleme
+
+<div>
+
+    <div class="row panel pane-default">
+        @foreach (var product in Model.Urunlers)
+        {
+            <div class="col-md-3 text-center">
+                <img class="img-fluid img-thumbnail" src="@product" alt="image" />
+                <div><h2>@product.UrunAd</h2></div>
+                <div>@product.Stok</div>
+                <div>@product.Fiyat</div>
+                <div>
+                    <a class="btn btn-success" asp-controller="Sepet" asp-action="SepeteEkleme" asp-route-UrunId="@product.UrunId">Sepete Ekle</a>
+                </div>
+
+                <div>
+                    <a class="btn btn-success" asp-controller="Urunler" asp-action="UrunDetay" asp-route-UrunId="@product.UrunId">Sepete Ekle</a>
+                </div>
+            </div>
+
+
+        }
+    </div>
+</div>

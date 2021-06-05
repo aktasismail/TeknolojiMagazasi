@@ -1,0 +1,11 @@
+D:\Visual Studio\AktasTech\AktasTech.Core\bin\Release\netcoreapp2.1\AktasTech.Core.deps.json
+D:\Visual Studio\AktasTech\AktasTech.Core\bin\Release\netcoreapp2.1\AktasTech.Core.dll
+D:\Visual Studio\AktasTech\AktasTech.Core\bin\Release\netcoreapp2.1\AktasTech.Core.pdb
+D:\Visual Studio\AktasTech\AktasTech.Core\obj\Release\netcoreapp2.1\AktasTech.Core.csprojAssemblyReference.cache
+D:\Visual Studio\AktasTech\AktasTech.Core\obj\Release\netcoreapp2.1\AktasTech.Core.csproj.CoreCompileInputs.cache
+D:\Visual Studio\AktasTech\AktasTech.Core\obj\Release\netcoreapp2.1\AktasTech.Core.AssemblyInfoInputs.cache
+D:\Visual Studio\AktasTech\AktasTech.Core\obj\Release\netcoreapp2.1\AktasTech.Core.AssemblyInfo.cs
+D:\Visual Studio\AktasTech\AktasTech.Core\obj\Release\netcoreapp2.1\AktasTech.Core.dll
+D:\Visual Studio\AktasTech\AktasTech.Core\obj\Release\netcoreapp2.1\AktasTech.Core.pdb
+D:\Visual Studio\AktasTech\AktasTech.Core\bin\Release\netcoreapp2.1\AktasTech.Core.runtimeconfig.json
+D:\Visual Studio\AktasTech\AktasTech.Core\bin\Release\netcoreapp2.1\AktasTech.Core.runtimeconfig.dev.json

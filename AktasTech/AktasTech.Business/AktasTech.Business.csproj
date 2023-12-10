@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AktasTech.DataAccessLayer\AktasTech.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\AktasTech.Entities\AktasTech.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

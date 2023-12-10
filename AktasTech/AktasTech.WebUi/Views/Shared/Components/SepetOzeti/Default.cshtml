@@ -1,0 +1,19 @@
+﻿@model AktasTech.WebUi.Models.SepetOzeti
+
+<ul class="dropdown-menu">
+    @foreach (var item in Model.Sepet.sepettekilers)
+    {
+        <li>
+            <a>@item.Urunler.UrunId <span class="badge">@item.Miktar</span></a>
+        </li>
+    }
+
+    <li role="separator" class="divider"></li>
+    <li>
+        <a><span class="glyphicon glyphicon-align-left glyphicon-shopping-cart" aria-hidden="true"></span>@Model.Sepet.Total</a>
+    </li>
+    <li role="separator" class="divider"></li>
+    <li>
+        <a asp-controller="Sepet" asp-action="Listeleme">Sepete Git</a>
+    </li>
+</ul>

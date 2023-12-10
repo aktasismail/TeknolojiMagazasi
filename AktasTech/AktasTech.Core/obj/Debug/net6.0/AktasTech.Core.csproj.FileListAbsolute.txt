@@ -1,0 +1,12 @@
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\obj\Debug\net6.0\AktasTech.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\obj\Debug\net6.0\AktasTech.Core.AssemblyInfoInputs.cache
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\obj\Debug\net6.0\AktasTech.Core.AssemblyInfo.cs
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\obj\Debug\net6.0\AktasTech.Core.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\bin\Debug\net6.0\AktasTech.Core.deps.json
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\bin\Debug\net6.0\AktasTech.Core.dll
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\bin\Debug\net6.0\AktasTech.Core.pdb
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\obj\Debug\net6.0\AktasTech.Core.dll
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\obj\Debug\net6.0\refint\AktasTech.Core.dll
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\obj\Debug\net6.0\AktasTech.Core.pdb
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\obj\Debug\net6.0\ref\AktasTech.Core.dll
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Core\obj\Debug\net6.0\AktasTech.Core.csproj.AssemblyReference.cache

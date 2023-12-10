@@ -1,0 +1,49 @@
+﻿@model AktasTech.WebUi.Models.SepetListeleme
+@{
+    ViewData["Title"] = "Listeleme";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<table class="table">
+    <tr>
+        <td>Urun Adı</td>
+        <td>Fiyat</td>
+        <td>Stok</td>
+        <td>Miktar</td>
+        <td></td>
+    </tr><form asp-action="Create" method="POST">
+    @foreach (var item in Model.Sepet.sepettekilers)
+    {
+        
+            <div class="col-md-3">
+                <input type="hidden" name="Id" value="@item.Urunler.UrunId" />
+                <input type="hidden" name="UrunKodu" value="@item.Urunler.UrunKodu" />
+                <img src="@item.Urunler.Gorsel" class="img-fluid" alt="" />
+                <div class="description">
+                    <h3>@item.Urunler.UrunKodu</h3>
+                </div>
+            </div>
+            <button type="submit" id="checkout-button">Checkout</button>
+
+        }
+    </form>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+            <h3>Total</h3>
+        </td>
+        <td class="text-right">
+            <h3>
+                <strong>@Model.Sepet.Total</strong>
+            </h3>
+        </td>
+    </tr>
+
+</table>
+<div><a class="btn btn-primary" asp-controller="Urunler" asp-action="Urun">Alışverişe Devam</a></div>
+<div><a class="btn btn-primary" asp-controller="Sepet" asp-action="Tamamla">Tamamlandı</a></div>
+@section Scripts {
+    <script src="https://js.stripe.com/v3/"></script>
+}

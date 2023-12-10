@@ -1,0 +1,46 @@
+﻿@model AktasTech.WebUi.Models.SepetListeleme
+@{
+    ViewData["Title"] = "Listeleme";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<form asp-action="Create" method="POST">
+    <table class="table">
+        <tr>
+            <td>Urun Adı</td>
+            <td>Fiyat</td>
+            <td>Stok</td>
+            <td>Miktar</td>
+            <td></td>
+        </tr>
+
+        @foreach (var item in Model.Sepet.sepettekilers)
+        {
+            <input type="hidden" name="Id" value="@item.Urunler.UrunId" />
+            <input type="hidden" name="UrunKodu" value="@item.Urunler.UrunKodu" />
+            <tr>
+                <td>@item.Urunler.UrunAd</td>
+                <td>@item.Urunler.Fiyat</td>
+                <td>@item.Urunler.Stok</td>
+                <td>@item.Miktar</td>
+                <td class="text-right"><a class="btn btn-xs btn-danger" asp-controller="Sepet" asp-action="Silme" asp-route-urunId="@item.Urunler.UrunId"><i class="bi bi-trash3-fill"></i> Sepetten Sil</a></td>
+            </tr>
+        }
+
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>
+                <h3>Toplam</h3>
+            </td>
+            <td class="text-right">
+                <h3>
+                    <strong>@Model.Sepet.Total</strong>
+                </h3>
+            </td>
+        </tr>
+
+    </table>
+    <button type="submit" class="btn btn-primary" id="checkout-button">Ödemeye Geç</button>
+</form>

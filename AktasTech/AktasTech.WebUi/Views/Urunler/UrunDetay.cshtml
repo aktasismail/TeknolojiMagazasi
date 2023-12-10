@@ -1,0 +1,18 @@
+﻿@model AktasTech.Entities.Concrete.Urunler
+
+<div>
+    <div class="row">
+        <div class="col-md-5 text-center">
+            <img class="img-fluid img-thumbnail" src="@Model.Gorsel" alt="image" />
+        </div>
+        <div class="col-md-7">
+            <div><h2>@Model.UrunAd</h2></div>
+            <div>Mevcut: @Model.Stok</div>
+            <div class="mb-3">Fiyat: @Model.Fiyat</div>
+            @Html.Raw(Model.Detay)
+            <div>
+                <a class="btn btn-success mt-5" asp-controller="Sepet" asp-action="SepeteEkleme" asp-route-UrunId="@Model.UrunId">Sepete Ekle</a>
+            </div>
+        </div>
+    </div>
+</div>

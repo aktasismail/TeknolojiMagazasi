@@ -1,0 +1,17 @@
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\bin\Release\net6.0\AktasTech.Entities.deps.json
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\bin\Release\net6.0\AktasTech.Entities.runtimeconfig.json
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\bin\Release\net6.0\AktasTech.Entities.dll
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\bin\Release\net6.0\AktasTech.Entities.pdb
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\bin\Release\net6.0\AktasTech.Core.dll
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\bin\Release\net6.0\AktasTech.Core.pdb
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\obj\Release\net6.0\AktasTech.Entities.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\obj\Release\net6.0\AktasTech.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\obj\Release\net6.0\AktasTech.Entities.AssemblyInfoInputs.cache
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\obj\Release\net6.0\AktasTech.Entities.AssemblyInfo.cs
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\obj\Release\net6.0\AktasTech.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\obj\Release\net6.0\AktasTech.Entities.csproj.CopyComplete
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\obj\Release\net6.0\AktasTech.Entities.dll
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\obj\Release\net6.0\refint\AktasTech.Entities.dll
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\obj\Release\net6.0\AktasTech.Entities.pdb
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\obj\Release\net6.0\AktasTech.Entities.genruntimeconfig.cache
+C:\Users\ismail\Desktop\AktasTech\AktasTech.Entities\obj\Release\net6.0\ref\AktasTech.Entities.dll
